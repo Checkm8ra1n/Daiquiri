@@ -1,7 +1,49 @@
-/* 
-  LocalizableIT.strings
-  Daiquiri
+/* DopamineView.swift */
+"dopamine_title" = "Dopamine";
+"dopamine_description" = "Dopamine è un jailbreak semi-tethered che supporta la maggior parte dei dispositivi e iOS 15-17.";
+"dopamine_supported_devices" = "Dispositivi supportati:";
+"dopamine_device_all" = "Tutti i dispositivi";
+"dopamine_ios_version_supported" = "iOS 15.x - 17.x";
 
-  Created by Checkm8Croft on 26/07/25.
-  
-*/
+/* Download options */
+"download_options" = "Opzioni di Download";
+"download_ipa" = "Scarica IPA";
+"download_tipa" = "Scarica TIPA";
+"install_trollstore" = "Installa con TrollStore";
+
+/* Tooltip (solo iOS) */
+"trollstore_tooltip" = "TrollStore usa uno schema URL speciale per installare app senza jailbreak.";
+
+/* Palera1nView.swift */
+"palera1n_title" = "Palera1n";
+"palera1n_supported_devices" = "Dispositivi supportati:";
+"palera1n_device_a11older" = "Dispositivi A11 e precedenti";
+"palera1n_ios_16x" = "iOS 16.x";
+"palera1n_ipados_17x_18" = "iPadOS 17.x e 18.0 (iPad 6a e 7a generazione)";
+
+"installation_status" = "Stato Installazione";
+"palera1n_installed" = "Palera1n è installato";
+"palera1n_not_found" = "Palera1n non trovato";
+"path_label" = "Percorso: %@";
+"check_again" = "Controlla di nuovo";
+"install_palera1n" = "Installa Palera1n";
+"output_label" = "Output: %@";
+"palera1n_mac_only" = "L'installazione di Palera1n è disponibile solo su macOS.";
+
+/* ContentView.swift */
+"daiquiri_title" = "Daiquiri";
+"dont_know_tool" = "Non sai quale strumento usare?";
+"see_here" = "Guarda qui";
+
+"tools_title" = "Strumenti disponibili";
+"palera1n_title" = "Palera1n";
+"dopamine_title" = "Dopamine";
+"checkra1n_title" = "Checkra1n";
+"unc0ver_title" = "Unc0ver";
+"odyssey_title" = "Odyssey";
+"taurine_title" = "Taurine";
+"chimera_title" = "Chimera";
+"electra_title" = "Electra";
+
+"tool_not_found" = "Strumento non trovato";
+"back_to_home" = "Torna alla Home";
